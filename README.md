@@ -1,6 +1,6 @@
 
 Screenshots:
-
+<img src= "spotify and auth.PNG">
 <img src="rubber.png">
 
 
